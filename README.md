@@ -1,1 +1,1 @@
-# Pix_Art_Generator
+# Pixel_Art_Generator
